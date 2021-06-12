@@ -1,0 +1,2 @@
+apk.signed=src.apk
+txt.out=out.txt

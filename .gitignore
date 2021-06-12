@@ -1,0 +1,4 @@
+out/
+dist/*.apk
+dist/*.txt
+!dist/config.txt
